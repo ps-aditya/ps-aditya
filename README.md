@@ -1,16 +1,23 @@
 ## Hi there 👋
 
-<!--
-**ps-aditya/ps-aditya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Aditya**, a first‑year AI & ML student at Atlas SkillTech University and a professional Mridangam artist with 250+ stage performances. I balance technical depth with artistic precision and thrive in high‑pressure environments.
 
-Here are some ideas to get you started:
+### About Me
+- Academic service: Reviewer for ISMIR 2026  
+- Research: projects in music production, acoustics, logistics, predictive modeling  
+- Goal: Build publishable, impactful research and technical projects bridging AI, systems, infrasctucture and creative technology  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Tools
+- **Programming & Systems:** Python, Redis internals, TCP/IP, distributed systems, backend development, Shell Building  
+- **Data & Analytics:** SQL normalization, Power BI star schema modeling, statistical modeling, Excel/CSV workflows  
+- **Web Development:** Django, Flask, CSS, HTML  
+- **Workflow:** Structured technical troubleshooting, efficient project execution  
+
+### Projects
+- Redis server implementation with protocol parsing and concurrency  
+- Zerve AI data analysis: optimized pipelines, uncovered behavioral insights from 400K+ logs  
+- Music/AI integration studies combining acoustics with multimodal encoding models  
+
+### Contact
+- Email: adityalpha16@gmail.com
+- LinkedIn: [linkedin.com/in/aditya](https://linkedin.com/in/aditya-puthanthara-shaji) 
