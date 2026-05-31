@@ -16,7 +16,8 @@ I'm **Aditya**, a second‑year AI & ML student at Atlas SkillTech University an
 ### Projects
 - Redis server implementation with protocol parsing and concurrency  
 - Zerve AI data analysis: optimized pipelines, uncovered behavioral insights from 400K+ logs  
-- Music/AI integration studies combining acoustics production with automation 
+- Music/AI integration studies combining acoustics production with automation
+- Unix Shell (pysh) Implemented a POSIX-style shell in Python covering pipelines, I/O redirection, background job control, tab completion with LCP, programmable completers, history persistence, and parameter expansion. 
 
 ### Contact
 - Email: adityalpha16@gmail.com
