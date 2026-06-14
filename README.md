@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Aditya**, a second‑year AI & ML student at Atlas SkillTech University and a professional Mridangam artist. I thrive in high‑pressure environments.
+I'm **Aditya**, a sophmore AI & ML student at Atlas SkillTech University and a professional Mridangam artist. I thrive in high‑pressure environments.
 
 ### About Me
 - Academic service: Reviewer for ISMIR 2026  
