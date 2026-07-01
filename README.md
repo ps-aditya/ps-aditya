@@ -1,23 +1,24 @@
 ## Hi there 👋
 
-I'm **Aditya**, a sophmore AI & ML student at Atlas SkillTech University and a professional Mridangam artist. I thrive in high‑pressure environments.
+I'm **Aditya**, an AI and Systems developer currently a Computer Science (AI & ML) undergrad at Atlas SkillTech University.
+
+I enjoy building intelligent developer tools, infrastructure software, and rapid experiments around emerging technologies. My interests lie at the intersection of AI and systems engineering, where machine intelligence can make complex software faster, more observable, and easier to operate.
+
+Also, I believe the best way to learn is to build relentlessly, ship often and stay close to the frontier of emerging technology.
 
 ### About Me
-- Academic service: Reviewer for ISMIR 2026  
-- Research: projects in music production, acoustics, logistics, predictive modeling  
-- Goal: Build publishable, impactful research and technical projects bridging AI, systems, infrasctucture and creative technology  
+I spend most of my time building infrastructure projects, but I also enjoy shipping small 48-hour experiments whenever new technologies or interesting engineering problems emerge.
 
-### Skills & Tools
-- **Programming & Systems:** Python, Java, Redis internals, TCP/IP, distributed systems, backend development, Shell Building  
-- **Data & Analytics:** SQL normalization, Power BI star schema modeling, statistical modeling, Excel/CSV workflows  
-- **Web Development:** Django, Flask, CSS, HTML  
-- **Workflow:** Structured technical troubleshooting, efficient project execution  
-
-### Projects
-- Redis server implementation with protocol parsing and concurrency  
-- Zerve AI data analysis: optimized pipelines, uncovered behavioral insights from 400K+ logs  
-- Music/AI integration studies combining acoustics production with automation
-- Unix Shell (pysh) Implemented a POSIX-style shell in Python covering pipelines, I/O redirection, background job control, tab completion with LCP, programmable completers, history persistence, and parameter expansion. 
+### Currently working on:
+- Redis State Explorer: Building an open-source Redis observability platform with a published VS Code extension focused on state exploration, developer workflows, and AI-powered infrastructure diagnostics.
+  
+- AI Infrastructure Copilot: Developing an AI assistant that analyzes Redis telemetry, logs, and performance metrics to identify root causes, memory bottlenecks, and infrastructure issues.
+  
+- Zerve AI: Optimized large-scale data analysis pipelines and uncovered behavioral insights from 400K+ execution logs.
+  
+- Unix Shell (PYSH): Implemented a POSIX-style shell in Python featuring pipelines, I/O redirection, background job control, history persistence, parameter expansion, tab completion (LCP), and programmable completers.
+  
+- Weekend Experiments – Shipping rapid 48-hour developer tools, browser extensions, and AI-powered utilities exploring systems engineering, infrastructure, and open-source workflows.
 
 ### Contact
 - Email: adityalpha16@gmail.com
