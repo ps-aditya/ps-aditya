@@ -14,11 +14,10 @@ I spend most of my time building infrastructure projects, but I also enjoy shipp
   
 - AI Infrastructure Copilot: Developing an AI assistant that analyzes Redis telemetry, logs, and performance metrics to identify root causes, memory bottlenecks, and infrastructure issues.
   
-- Zerve AI: Optimized large-scale data analysis pipelines and uncovered behavioral insights from 400K+ execution logs.
-  
 - Unix Shell (PYSH): Implemented a POSIX-style shell in Python featuring pipelines, I/O redirection, background job control, history persistence, parameter expansion, tab completion (LCP), and programmable completers.
   
 - Weekend Experiments – Shipping rapid 48-hour developer tools, browser extensions, and AI-powered utilities exploring systems engineering, infrastructure, and open-source workflows.
+
 
 ### Contact
 - Email: adityalpha16@gmail.com
