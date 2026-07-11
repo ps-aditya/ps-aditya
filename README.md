@@ -1,4 +1,4 @@
-## Hi there 👋
+## Oi there 👋
 
 I'm **Aditya**, an AI and Systems developer currently a Computer Science (AI & ML) undergrad at Atlas SkillTech University.
 
