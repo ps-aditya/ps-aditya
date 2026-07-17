@@ -12,7 +12,7 @@ I spend most of my time building infrastructure projects, but I also enjoy shipp
 ### Currently working on:
 - Redis State Explorer: Building an open-source Redis observability platform with a published VS Code extension focused on state exploration, developer workflows, and AI-powered infrastructure diagnostics.
   
-- AI Infrastructure Copilot: Developing an AI assistant that analyzes Redis telemetry, logs, and performance metrics to identify root causes, memory bottlenecks, and infrastructure issues.
+- Rekon: A live, terminal-native TUI for Redis monitoring. Btop, but it understands Redis.
   
 - Unix Shell (PYSH): Implemented a POSIX-style shell in Python featuring pipelines, I/O redirection, background job control, history persistence, parameter expansion, tab completion (LCP), and programmable completers.
   
