@@ -10,9 +10,7 @@ Also, I believe the best way to learn is to build relentlessly, ship often and s
 I spend most of my time building infrastructure projects, but I also enjoy shipping small 48-hour experiments whenever new technologies or interesting engineering problems emerge.
 
 ### Currently working on:
-- Redis State Explorer: Building an open-source Redis observability platform with a published VS Code extension focused on state exploration, developer workflows, and AI-powered infrastructure diagnostics.
-  
-- Rekon: A live, terminal-native TUI for Redis monitoring. Btop, but it understands Redis.
+- Redis State Explorer: Building an open-source Redis tooling suite. A state-exploration lab, the Redis Live VS Code extension, and rekon, a terminal-native monitoring TUI.
   
 - Unix Shell (PYSH): Implemented a POSIX-style shell in Python featuring pipelines, I/O redirection, background job control, history persistence, parameter expansion, tab completion (LCP), and programmable completers.
   
