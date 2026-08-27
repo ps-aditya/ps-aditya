@@ -1,8 +1,8 @@
 ## Oi 👋
 
-I'm **Aditya**, an AI and Systems developer currently a Computer Science (AI & ML) undergrad at Atlas SkillTech University.
+I'm **Aditya**, a Systems and Tools developer currently a Computer Science (AI & ML) undergrad at Atlas SkillTech University.
 
-I enjoy building intelligent developer tools, infrastructure software, and rapid experiments around emerging technologies. My interests lie at the intersection of AI and systems engineering, where machine intelligence can make complex software faster, more observable, and easier to operate.
+I enjoy building intelligent developer tools, infrastructure software and rapid experiments around emerging technologies. My interests lie at the intersection of AI and systems engineering, where machine intelligence can make complex software faster and easier to operate.
 
 Also, I believe the best way to learn is to build relentlessly, ship often and stay close to the frontier of emerging technology.
 
@@ -10,7 +10,7 @@ Also, I believe the best way to learn is to build relentlessly, ship often and s
 I spend most of my time building infrastructure projects, but I also enjoy shipping small 48-hour experiments whenever new technologies or interesting engineering problems emerge.
 
 ### Currently working on:
-- Redis State Explorer: Building an open-source Redis tooling suite. A state-exploration lab, the Redis Live VS Code extension, and rekon, a terminal-native monitoring TUI.
+- Redis State Explorer: Building an open-source Redis tooling suite. A state-exploration lab, the Redis Live VS Code extension with 800+ Downloads, and rekon, a terminal-native monitoring TUI.
   
 - Weekend Experiments: Shipping rapid 48-hour developer tools, browser extensions, and AI-powered utilities exploring systems engineering, infrastructure and open-source workflows.
 
