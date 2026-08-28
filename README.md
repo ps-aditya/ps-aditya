@@ -2,7 +2,7 @@
 
 I'm **Aditya**, a Systems and Tools developer currently a Computer Science (AI & ML) undergrad at Atlas SkillTech University.
 
-I enjoy building intelligent developer tools, infrastructure software and rapid experiments around emerging technologies. My interests lie at the intersection of AI and systems engineering, where machine intelligence can make complex software faster and easier to operate.
+I enjoy building intelligent developer tools, infrastructure software and rapid experiments around emerging technologies.
 
 Also, I believe the best way to learn is to build relentlessly, ship often and stay close to the frontier of emerging technology.
 
