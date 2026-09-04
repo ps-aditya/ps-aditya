@@ -10,7 +10,7 @@ Also, I believe the best way to learn is to build relentlessly, ship often and s
 I spend most of my time building infrastructure projects, but I also enjoy shipping small 48-hour experiments whenever new technologies or interesting engineering problems emerge.
 
 ### Currently working on:
-- Redis State Explorer: Building an open-source Redis tooling suite. A state-exploration lab, the Redis Live VS Code extension with 800+ Downloads, and rekon, a terminal-native monitoring TUI.
+- Redis State Explorer: Building an open-source Redis tooling suite. A state-exploration lab, the Redis Live VS Code extension with 900+ Downloads, and rekon, a terminal-native monitoring TUI.
   
 - Weekend Experiments: Shipping rapid 48-hour developer tools, browser extensions, and AI-powered utilities exploring systems engineering, infrastructure and open-source workflows.
 
