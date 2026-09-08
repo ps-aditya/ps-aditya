@@ -11,6 +11,8 @@ I spend most of my time building infrastructure projects, but I also enjoy shipp
 
 ### Currently working on:
 - Redis State Explorer: Building an open-source Redis tooling suite. A state-exploration lab, the Redis Live VS Code extension with 900+ Downloads, and rekon, a terminal-native monitoring TUI.
+
+- Low End LLM: Helping people without high end GPUs or expensive workstations get a taste of local AI.
   
 - Weekend Experiments: Shipping rapid 48-hour developer tools, browser extensions, and AI-powered utilities exploring systems engineering, infrastructure and open-source workflows.
 
