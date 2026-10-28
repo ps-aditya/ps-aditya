@@ -1,7 +1,7 @@
 <table width="100%">
 <tr>
 <td align="left">
-<strong>AI Engineer & Artist</strong> Building, breaking, and shipping.
+<strong>AI Engineer & Artist.</strong> Building, breaking, and shipping.
 </td>
 <td align="right">
 <a href="https://ps-aditya.github.io/portfolio/">Portfolio</a> ·
