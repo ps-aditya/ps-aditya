@@ -13,13 +13,13 @@
 
 I build **AI-native developer tools, agentic systems, open-source infrastructure, and creative engineering products.**
 
-I'm also a Computer Science (AI & ML) undergrad at Atlas SkillTech University.
+I'm a Computer Science (AI & ML) undergrad at Atlas SkillTech University.
 
 ### About Me
 I spend most of my time building infrastructure projects, but I also enjoy shipping small 48-hour experiments whenever new technologies or interesting engineering problems emerge.
 
 ### Currently working on:
-- Redis State Explorer: Building an open-source Redis tooling suite. A state-exploration lab, the Redis Live VS Code extension with 2000+ Downloads, and rekon, a terminal-native monitoring TUI.
+- Redis State Explorer: Building an open-source Redis tooling suite. A state-exploration lab, the Redis Live VS Code extension with 2000+ Downloads, Docker Vitals, 500+ downloads.
 
 - Low End LLM: Helping people without high end GPUs or expensive workstations get a taste of local AI.
   
