@@ -4,7 +4,7 @@
 <strong>AI Engineer & Artist.</strong> Building, breaking, and shipping.
 </td>
 <td align="right">
-<a href="https://ps-aditya.github.io/portfolio/">Portfolio</a> ·
+<a href="https://psaditya.vercel.app/">Portfolio</a> ·
 <a href="https://www.linkedin.com/in/adityashaji">LinkedIn</a> ·
 <a href="https://x.com/psdevelop">X</a> ·
 </td>
